@@ -1,2 +1,8 @@
 #Ignore montserrat font
 Montserrat-Medium.ttf
+
+#Ignore the model directory
+model
+
+#Ignore pycache
+__pycache__
